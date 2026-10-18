@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/dateparser/commit/07b40b2f01773d830321538ac9d2d6219edbe10e",
       "git:hexsha": "07b40b2f01773d830321538ac9d2d6219edbe10e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T02:14:14.010288+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/dateparser/commit/29f13ea202f07dce62f9073f24b2daa3d780a55f",
